@@ -9,10 +9,12 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 
 
 
-## Development
+## Web and Software Development
 
 #### Resources
 
+* [Everything I Know as a Software Developer Without a Degree](https://www.taniarascia.com/everything-i-know-as-a-software-developer-without-a-degree/): Detailed roadmap post from Tania Rascia 
+* [How I Made a Career Change into Web Development](https://www.taniarascia.com/how-i-made-a-career-change-into-web-development/): Another detailed post from Tania Rascia (Chicago)
 * [How I Learned to Code in Only 6 Years](https://blog.hartleybrody.com/learning-to-code/): Hartley Brody's honest reflection on learning to code.
 * [How I Got Started with Programming Side Projects](https://antrikshy.com/blog/how-i-got-started-with-programming-side-projects): Guide for developing side projects
 * [Learning How to Build a Web Application](https://medium.com/@rchang/learning-how-to-build-a-web-application-c5499bd15c8f): Nice 101 on Web Apps and Web Dev
@@ -42,6 +44,7 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 
 #### Data Science
 
+* [Hiring Unicorns](https://technology.cloverhealth.com/hiring-unicorns-e2d23a186ea1#.qfxtddpib): What skills do data scientists need?
 * [The Data Science Handbook](https://www.thedatasciencehandbook.com/): Conversations with industry data scientists (non-technical guide).
 * [Statistical Analysis Handbook](http://www.statsref.com/HTML/index.html?binomial.html): Quick reference for statistical concepts + equations
 * [Towards Data Science](https://towardsdatascience.com/): Collection of Medium articles covering DS concepts & ideas
