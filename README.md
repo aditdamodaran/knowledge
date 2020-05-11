@@ -5,7 +5,7 @@
 </h1>
 I'm compiling a list of 100 resources that I've found useful for referencing. Some links are about development and design &mdash; things that can be studied, practiced, and perhaps mastered. Other links are about less tangible topics &mdash; direction, fulfillment, and empathy. By limiting myself to 100 resources, I will eventually need to make tradeoffs between what to include and what to discard. Please feel free to report an issue with any links that no longer work.
 
-<hr style="opacity: 0;">
+&nbsp;
 
 
 
@@ -34,7 +34,7 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 * [Webpack Academy](https://webpack.academy/): Learning resource by a Webpack core team member
 * [GTmetrix](https://gtmetrix.com/): Learn how quickly your website loads + how to optimize it
 
-<hr style="opacity: 0;">
+&nbsp;
 
 
 
@@ -54,7 +54,7 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 
 * [My Journey Into Data Visualization](https://www.visualcinnamon.com/2017/03/my-journey-into-dataviz): Nadieh Bremer's inspiring transition from astronomy to data-vis
 
-<hr style="opacity: 0;">
+&nbsp;
 
 
 
@@ -65,7 +65,7 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 * [55 Things Learned as a 19-Year-Old VC](https://medium.com/@tzhongg/55-things-learned-as-a-19-year-old-vc-6c54af2f0f89): Great points for those starting in VC
 * [Good VCs, Bad VCs](http://christophjanz.blogspot.com/2014/11/good-vcs-bad-vcs.html): Christoph Janz's take on traits of Good VCs vs. Bad VCs
 
-<hr style="opacity: 0;">
+&nbsp;
 
 
 
@@ -101,7 +101,7 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 
 
 
-<hr style="opacity: 0;">
+
 
 
 
