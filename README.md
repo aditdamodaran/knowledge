@@ -42,6 +42,7 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 
 #### Data Science
 
+* [Hiring Unicorns](https://technology.cloverhealth.com/hiring-unicorns-e2d23a186ea1#.qfxtddpib): What skills do data scientists need?
 * [The Data Science Handbook](https://www.thedatasciencehandbook.com/): Conversations with industry data scientists (non-technical guide).
 * [Statistical Analysis Handbook](http://www.statsref.com/HTML/index.html?binomial.html): Quick reference for statistical concepts + equations
 * [Towards Data Science](https://towardsdatascience.com/): Collection of Medium articles covering DS concepts & ideas
