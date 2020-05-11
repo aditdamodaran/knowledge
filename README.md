@@ -99,9 +99,7 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 * [How To Get Any Job You Want](https://dev.to/brandonskerritt/how-to-get-any-job-you-want-a-guide-to-employability-skills-1i3m): A guide to developing as a professional (especially for new grads).
 * [Landing a Full-Time Job in Seattle (MSFT/AMZN)](http://blog.mattgoyer.com/stories/ftjobintinseattle.html): Matt Goyer's Blog on MSFT/AMZN interviews
 
-
-
-
+&nbsp;
 
 
 
