@@ -68,6 +68,10 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 * [55 Things Learned as a 19-Year-Old VC](https://medium.com/@tzhongg/55-things-learned-as-a-19-year-old-vc-6c54af2f0f89): Great points for those starting in VC
 * [Good VCs, Bad VCs](http://christophjanz.blogspot.com/2014/11/good-vcs-bad-vcs.html): Christoph Janz's take on traits of Good VCs vs. Bad VCs
 
+#### Startups
+
+* [How to Start a Startup](http://paulgraham.com/start.html): Paul Graham's refreshingly candid take on technical founders
+
 &nbsp;
 
 
