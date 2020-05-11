@@ -9,10 +9,11 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 
 
 
-## Development
+## Web and Software Development
 
 #### Resources
 
+* [How I Made a Career Change into Web Development](https://www.taniarascia.com/how-i-made-a-career-change-into-web-development/): Detailed post from Tania Rascia (Chicago)
 * [How I Learned to Code in Only 6 Years](https://blog.hartleybrody.com/learning-to-code/): Hartley Brody's honest reflection on learning to code.
 * [How I Got Started with Programming Side Projects](https://antrikshy.com/blog/how-i-got-started-with-programming-side-projects): Guide for developing side projects
 * [Learning How to Build a Web Application](https://medium.com/@rchang/learning-how-to-build-a-web-application-c5499bd15c8f): Nice 101 on Web Apps and Web Dev
