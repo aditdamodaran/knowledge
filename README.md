@@ -20,6 +20,7 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 * [Learning How to Build a Web Application](https://medium.com/@rchang/learning-how-to-build-a-web-application-c5499bd15c8f): Nice 101 on Web Apps and Web Dev
 * [Developer Roadmaps](https://roadmap.sh/): Roadmaps for learning common technologies
 * [bitwisecmd.com](http://bitwisecmd.com/): Nifty tool for working with binary operations 
+* [What Makes a Good Coding Portfolio?](https://www.reddit.com/r/cscareerquestions/comments/6hff4n/what_makes_a_good_coding_portfolio/diz5uzf?utm_source=share&utm_medium=web2x) Great answer to a common question
 
 #### Javascript
 
