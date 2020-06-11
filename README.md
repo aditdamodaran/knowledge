@@ -28,6 +28,10 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 * [How to Write Accessible Javascript](https://benrobertson.io/accessibility/javascript-accessibility#2-plan-for-common-keyboard-interactions): A guide to writing Javascript to make websites accessible
 * [Laracasts](https://laracasts.com/): Screencast tutorials on Laravel, Vue, and other technologies.
 
+#### HTML / CSS
+
+* [CSS Utility Classes and Separation of Concerns](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/): CSS Philosophy 
+
 #### Python
 
 * [Awesome Python GitHub](https://github.com/vinta/awesome-python): Links to frameworks, libraries, and resources for Python
