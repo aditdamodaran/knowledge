@@ -24,8 +24,9 @@ I'm compiling a list of 100 resources that I've found useful for referencing. So
 
 #### Javascript
 
+* [You Don't Know JS](https://github.com/leonardomso/You-Dont-Know-JS): Best resource for a deep-dive on JavaScript
 * [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70): ELI5 on modern Javascript technologies
-* [How to Write Accessible Javascript](https://benrobertson.io/accessibility/javascript-accessibility#2-plan-for-common-keyboard-interactions): A guide to writing Javascript to make websites accessible
+* [How to Write Accessible Javascript](https://benrobertson.io/accessibility/javascript-accessibility#2-plan-for-common-keyboard-interactions): A guide to writing Javascript to make websites acccessible
 * [Laracasts](https://laracasts.com/): Screencast tutorials on Laravel, Vue, and other technologies.
 
 #### HTML / CSS
